@@ -1,0 +1,6 @@
+C:\Users\gunis\source\repos\FakeData\SahteVeri\bin\Debug\SahteVeri.dll
+C:\Users\gunis\source\repos\FakeData\SahteVeri\bin\Debug\SahteVeri.pdb
+C:\Users\gunis\source\repos\FakeData\SahteVeri\obj\Debug\SahteVeri.csprojAssemblyReference.cache
+C:\Users\gunis\source\repos\FakeData\SahteVeri\obj\Debug\SahteVeri.csproj.CoreCompileInputs.cache
+C:\Users\gunis\source\repos\FakeData\SahteVeri\obj\Debug\SahteVeri.dll
+C:\Users\gunis\source\repos\FakeData\SahteVeri\obj\Debug\SahteVeri.pdb

@@ -1,0 +1,30 @@
+C:\Users\gunis\source\repos\FakeData\FakeData\bin\Debug\FakeData.exe.config
+C:\Users\gunis\source\repos\FakeData\FakeData\bin\Debug\FakeData.exe
+C:\Users\gunis\source\repos\FakeData\FakeData\bin\Debug\FakeData.pdb
+C:\Users\gunis\source\repos\FakeData\FakeData\obj\Debug\FakeData.csprojAssemblyReference.cache
+C:\Users\gunis\source\repos\FakeData\FakeData\obj\Debug\FakeData.Form1.resources
+C:\Users\gunis\source\repos\FakeData\FakeData\obj\Debug\FakeData.Properties.Resources.resources
+C:\Users\gunis\source\repos\FakeData\FakeData\obj\Debug\FakeData.csproj.GenerateResource.cache
+C:\Users\gunis\source\repos\FakeData\FakeData\obj\Debug\FakeData.csproj.CoreCompileInputs.cache
+C:\Users\gunis\source\repos\FakeData\FakeData\obj\Debug\FakeData.exe
+C:\Users\gunis\source\repos\FakeData\FakeData\obj\Debug\FakeData.pdb
+C:\Users\toshiba 1\Desktop\FakeData\FakeData\bin\Debug\FakeData.exe.config
+C:\Users\toshiba 1\Desktop\FakeData\FakeData\bin\Debug\FakeData.exe
+C:\Users\toshiba 1\Desktop\FakeData\FakeData\bin\Debug\FakeData.pdb
+C:\Users\toshiba 1\Desktop\FakeData\FakeData\obj\Debug\FakeData.csprojAssemblyReference.cache
+C:\Users\toshiba 1\Desktop\FakeData\FakeData\obj\Debug\FakeData.Form1.resources
+C:\Users\toshiba 1\Desktop\FakeData\FakeData\obj\Debug\FakeData.Properties.Resources.resources
+C:\Users\toshiba 1\Desktop\FakeData\FakeData\obj\Debug\FakeData.csproj.GenerateResource.cache
+C:\Users\toshiba 1\Desktop\FakeData\FakeData\obj\Debug\FakeData.csproj.CoreCompileInputs.cache
+C:\Users\toshiba 1\Desktop\FakeData\FakeData\obj\Debug\FakeData.exe
+C:\Users\toshiba 1\Desktop\FakeData\FakeData\obj\Debug\FakeData.pdb
+D:\FakeData\FakeData\bin\Debug\FakeData.exe.config
+D:\FakeData\FakeData\bin\Debug\FakeData.exe
+D:\FakeData\FakeData\bin\Debug\FakeData.pdb
+D:\FakeData\FakeData\obj\Debug\FakeData.csprojAssemblyReference.cache
+D:\FakeData\FakeData\obj\Debug\FakeData.Form1.resources
+D:\FakeData\FakeData\obj\Debug\FakeData.Properties.Resources.resources
+D:\FakeData\FakeData\obj\Debug\FakeData.csproj.GenerateResource.cache
+D:\FakeData\FakeData\obj\Debug\FakeData.csproj.CoreCompileInputs.cache
+D:\FakeData\FakeData\obj\Debug\FakeData.exe
+D:\FakeData\FakeData\obj\Debug\FakeData.pdb
